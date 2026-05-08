@@ -1,0 +1,13 @@
+name: flair-enforcer
+version: 0.1.0
+
+reddit:
+  owner: Cubiczan
+  repo: flair-enforcer
+
+services:
+  post-create: true
+  comment-create: false
+  app-install: true
+  app-upgrade: true
+
