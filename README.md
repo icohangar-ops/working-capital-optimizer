@@ -138,3 +138,7 @@ Start the backend on port 8000, then open the dashboard. Click **"Run Analysis"*
 ## License
 
 Apache-2.0
+
+## Demo
+
+📺 [Watch the demo](demos/$(basename "$video")) — slide-style walkthrough of key features and usage.
