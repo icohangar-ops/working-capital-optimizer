@@ -76,6 +76,7 @@ export interface TurnResult {
   reasoning_trace: ReasoningTrace | null
   duration_ms: number
   trace_id: string
+  raw_compress_response?: string
 }
 
 export interface Recommendation {
