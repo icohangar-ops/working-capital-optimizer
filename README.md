@@ -118,7 +118,7 @@ The Cash Flow Agent depends on all three domain agents. The orchestrator uses Ka
 
 ```bash
 # Clone the repository
-git clone https://github.com/cubiczan/working-capital-optimizer.git
+git clone https://github.com/icohangar-ops/working-capital-optimizer.git
 cd working-capital-optimizer
 
 # Copy environment template and fill in your keys
