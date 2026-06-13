@@ -55,7 +55,7 @@
 
 ### [2:35–3:00] Closing
 
-> "Working Capital Optimizer: four specialized AI agents, full Phoenix Cloud observability, and a self-improvement loop that makes every run smarter than the last. Check out the repo at github.com/Cubiczan/working-capital-optimizer. Thanks for watching."
+> "Working Capital Optimizer: four specialized AI agents, full Phoenix Cloud observability, and a self-improvement loop that makes every run smarter than the last. Check out the repo at github.com/icohangar-ops/working-capital-optimizer Thanks for watching."
 
 ---
 
